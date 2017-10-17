@@ -1,0 +1,33 @@
+body {
+  background: #D2D4F2;
+}
+
+.container {
+  max-width: 100%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+
+
+}
+.navbar ul {
+  justify-content: space-between;
+
+
+}
+
+.navbar li {
+  list-style: none;
+  /*align-content: space-around;*/
+
+  /*align-content: space-between;*/
+
+}
+
+
+
+h1 {
+  background-color: blue;
+}
