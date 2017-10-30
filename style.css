@@ -26,6 +26,16 @@ body {
 
 }
 
+.jumbotron {
+  text-align: center;
+
+}
+
+.jumbotron img{
+  width: 80%;
+  
+}
+
 
 
 h1 {
