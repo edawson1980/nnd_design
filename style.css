@@ -26,17 +26,30 @@ body {
 
 }
 
+.row {
+  align-items: center;
+}
+
 .card-container {
   background-color: #F8FDB2;
 }
 
-
-
-.row {
-  align-items: center;
-
+.card {
+  margin: 20px 10px 20px 10px;
 }
 
+.card-img{
+  height: 300px;
+}
+
+.card-title{
+  font-family: cursive;
+  font-weight: 500;
+  font-size: 2em;
+  text-align: center;
+  background-color: rgba(255,29,142,0.6);
+  margin-top: 40%;
+}
 h1 {
   background-color: blue;
 }
